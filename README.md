@@ -1,7 +1,9 @@
 ### Hello Welcome to Nitiwat0711 GitHub Profile😄
 #### Website: https://nitiwat0711.github.io
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitiwat0711&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitiwat0711&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitiwat0711)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Nitiwat0711/Nitiwat0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
